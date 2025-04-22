@@ -7,7 +7,8 @@ permalink: /
 
 # Simulation
 
-![Placeholder](C:\Users\doriv\Downloads\FutureSecuritySimulation.jpeg)
+![DCsimulation](https://github.com/user-attachments/assets/b7ee97ef-5509-4c99-a4a0-60e6a508d872)
+
 
 This is a template for creating new simulations.
 
