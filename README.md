@@ -1,41 +1,36 @@
-# simulation-template
+# simulation- Data Breach Leading to a Terrorist attack
 
-This is a *bare-minimum* template to create a simulation site.
+This simulation is created to learn more about the collaboration between local and federal government agencies to address a potential terrorist attack. This simulation includes cyber breaches, hate crimes, domestic terrorist threats, espionage, dark web markets, threats, and online chat rooms. 
 
-To get started with creating a site, simply:
+There are multiple objectives of this simulation, one is to examine the consequences of a security breach due to an international hacker group and espionage. While these breaches are occurring there are multiple smaller domestic terrorist attacks, therefore the goal is to address and stop a large-scale attack on a key government building (the Capitol Building). We hope that participants work in teams as various governmental entities to protect various individuals and critical infrastructure from attacks of differing areas.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+It is the hope that the individuals participating in the simulation learn more about how the Department of Homeland Security (DHS) and Federal Bureau of Investigation (FBI) collaborate in addressing data breaches and domestic terrorism. Along with this the participants should stop a large-scale terrorist attack from occurring along with addressing the other breaches/attacks that are occurring simultaneously. 
 
-After completing the creation of your new site on GitHub, update it as needed:
 
-## Replace the content of the template pages
+## Context
 
-Update the following files to your own content:
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+## Simulation Roles
+-Red Team (4-5)
 
-You may update or delete other `.md` files as needed.
+-Secretary of Homeland Security 
 
-## Publishing your site on GitHub Pages
+-CISA Analyst (2)  
 
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
+-Director of the FBI 
 
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    footer_content: 'YOUR FOOTNOTE.'
-    ```
+-FBI Special Agent (2) 
 
-2.  Push your updated `_config.yml` to your site on GitHub.
+-Chief of Police  
 
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
+-Police Officer (2) 
 
-## Supporting discussions
+-Secretary of Defense 
 
-[giscus](https://giscus.app/) is a comment system powered by GitHub Discussions. You could use this feature for
-facilitating communication among players, submitting reports, and/or collecting feedback. To enable it,
-config your giscus app, and replace the JavaScript code in `_layouts/event.html`.
+-Director of National Intelligence  
+
+-National Counterterrorism Center Analyst  
+
+-Secretary of Transportation 
+
+-Secretary of Treasury  
