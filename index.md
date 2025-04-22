@@ -11,6 +11,8 @@ permalink: /
 
 Context of Simulation
 
+There are a series of events relating to a security breach due to an international hacker group and espionage happening in Washington D.C. that threaten U.S. national security.
+
 This simulation is created to learn more about the collaboration between local and federal government agencies to address a potential terrorist attack. This simulation includes cyber breaches, hate crimes, domestic terrorist threats, espionage, dark web markets, threats, and online chat rooms. Multiple of the events will be happening simultaneously while others will occur based on previous recommendations. Before the simulation occurs participants will need to research about their role and the responsibilities that they have along with what resources they have at their disposal
 
 Objectives
@@ -21,10 +23,26 @@ Objectives
 - Mitigate all threats
 - Work collaboratively in teams with your respective role
 
-This is a template for creating new simulations.
+Roles
+- Red Team (4-5)
+- Secretary of Homeland Security 
+- CISA Analyst (2) 
+- Secret Service Agent (2)
+- Director of the FBI 
+- FBI Special Agent (2) 
+- Chief of Police  
+- Police Officer (2) 
+- Secretary of Defense 
+- Director of National Intelligence  
+- National Counterterrorism Center Analyst  
+- Secretary of Transportation 
+- Secretary of Treasury  
+- President of the United States
+- Vice President of the United States
+- Secretary of State
+- Secretary of the House
+- CEO of Discord 
+- CEO of Verizon
+- CEO of AT&T
+- CEO of T-Mobile
 
-Below is a list of resources about the website.
-
-- [GitHub Repository](https://github.com/future-of-security/simulation-template)
-- [Markdown Examples](https://github.com/just-the-docs/just-the-docs/blob/main/docs/index-test.md) -> [Generated Page](https://just-the-docs.com/docs/index-test/)
-- [GitHub Pages](https://pages.github.com/)
