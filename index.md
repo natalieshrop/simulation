@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# Just Another Simulation
+# Simulation
 
-![Placeholder](assets/images/placeholder.png)
+![Placeholder](C:\Users\doriv\Downloads\FutureSecuritySimulation.jpeg)
 
 This is a template for creating new simulations.
 
