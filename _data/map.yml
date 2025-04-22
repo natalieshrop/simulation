@@ -1,4 +1,10 @@
 center:
-  latitude: 77.0369
-  longitude: 38.9072
+  latitude: 37.229572
+  longitude: -80.413940
   zoom: 9
+locations:
+  - name: VT
+    description: Go Hokies!
+    latitude: 37.2249991
+    longitude: -80.4249983
+    url: https://www.vt.edu
