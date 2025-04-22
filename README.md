@@ -1,4 +1,4 @@
-# simulation- Data Breach Leading to a Terrorist attack
+# Simulation- Data Breach Leading to a Terrorist attack
 
 This simulation is created to learn more about the collaboration between local and federal government agencies to address a potential terrorist attack. This simulation includes cyber breaches, hate crimes, domestic terrorist threats, espionage, dark web markets, threats, and online chat rooms. 
 
