@@ -40,8 +40,8 @@ locations:
     longitude: -77.0353861
   - name: Pentagon
     description: Smaller Terrorist Attack 6
-    latitude: 38.8944172
-    longitude: -77.0307749
+    latitude: 38.87099
+    longitude: -77.05596
   - name: US Capitol Building
     description: Event 3, Event 4
     latitude: 38.9066787
