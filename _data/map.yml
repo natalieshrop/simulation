@@ -1,20 +1,23 @@
 center:
   latitude: 38.889805
   longitude: -77.009056
-  zoom: 11
+  zoom: 12
 locations:
   - name: Department of Homeland Security
     Description: Event 1
     latitude: 38.885203
     longitude: -77.021439
+    
   - name: Department of Treasury
     Description: Event 1, Event 2
     Latitude: 38.8975830
     Longitude: -77.0341120
+    
   - name: Westminster Playground
     Description: Event 2
     Latitude: 38.9150240
     Longitude: -77.0249720
+    
   - name: Masjid Muhammad Mosque
     Description: Smaller Terrorist Attack 1
     Latitude: 38.9103257 
