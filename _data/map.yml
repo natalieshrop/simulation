@@ -1,7 +1,7 @@
 center:
   latitude: 38.889805
   longitude: -77.009056
-  zoom: 9
+  zoom: 15
 locations:
   - name: Department of Homeland Security
     latitude: 38.885203
