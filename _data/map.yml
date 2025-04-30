@@ -4,32 +4,32 @@ center:
   zoom: 12
 locations:
   - name: Department of Homeland Security
-    Description: Event 1
+    description: Event 1
     latitude: 38.885203
     longitude: -77.021439
     
   - name: Department of Treasury
-    Description: Event 1, Event 2
-    Latitude: 38.8975830
-    Longitude: -77.0341120
+    description: Event 1, Event 2
+    latitude: 38.8975830
+    longitude: -77.0341120
     
   - name: Westminster Playground
-    Description: Event 2
-    Latitude: 38.9150240
-    Longitude: -77.0249720
+    description: Event 2
+    latitude: 38.9150240
+    longitude: -77.0249720
     
   - name: Masjid Muhammad Mosque
-    Description: Smaller Terrorist Attack 1
-    Latitude: 38.9103257 
-    Longitude: -77.0159092
+    description: Smaller Terrorist Attack 1
+    latitude: 38.9103257 
+    longitude: -77.0159092
   - name: Lincoln Park
-    Description: Smaller Terrorist Attack 2
-    Latitude: 38.8894676
-    Longitude: -76.9901770
+    description: Smaller Terrorist Attack 2
+    latitude: 38.8894676
+    longitude: -76.9901770
   - name: Dupont Circle Metro Station
-    Description: Smaller Terrorist Attack 3
-    Latitude: 38.9114551, 
-    Longitude: -77.0446400
+    description: Smaller Terrorist Attack 3
+    latitude: 38.9114551, 
+    longitude: -77.0446400
   - name: Ronald Reagan Building and International Trade Center
     Description: Smaller Terrorist Attack 4
     Latitude: 38.8977944, 
