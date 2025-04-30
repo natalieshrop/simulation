@@ -1,7 +1,7 @@
 center:
   latitude: 38.889805
   longitude: -77.009056
-  zoom: 13
+  zoom: 12
 locations:
   - name: Department of Homeland Security
     description: Event 1
@@ -31,33 +31,33 @@ locations:
     latitude: 38.9114551, 
     longitude: -77.0446400
   - name: Ronald Reagan Building and International Trade Center
-    Description: Smaller Terrorist Attack 4
-    Latitude: 38.8977944, 
-    Longitude: -77.0368642
+    description: Smaller Terrorist Attack 4
+    latitude: 38.8977944, 
+    longitude: -77.0368642
   - name: D.C. Supermarket
-    Description: Smaller Terrorist Attack 5
-    Latitude: 38.8899547
-    Longitude: -77.0353861
+    description: Smaller Terrorist Attack 5
+    latitude: 38.8899547
+    longitude: -77.0353861
   - name: Pentagon
-    Description: Smaller Terrorist Attack 6
-    Latitude: 38.8944172
-    Longitude: -77.0307749
+    description: Smaller Terrorist Attack 6
+    latitude: 38.8944172
+    longitude: -77.0307749
   - name: US Capitol Building
-    Description: Event 3, Event 4
-    Latitude: 38.9066787
-    Longitude: -77.048511
+    description: Event 3, Event 4
+    latitude: 38.9066787
+    longitude: -77.048511
   - name: D.C. Hotel
-    Description: Event 3
-    Latitude: 38.8723575
-    Longitude: -77.0566103
+    description: Event 3
+    latitude: 38.8723575
+    longitude: -77.0566103
   - name: The White House
-    Description: Event 4
-    Latitude: 38.8955108
-    Longitude: -77.0109984
+    description: Event 4
+    latitude: 38.8955108
+    longitude: -77.0109984
   - name: Washington Monument
-    Description: Event 5
-    Latitude: 38.8904395, 
-    Longitude: -77.0091793
+    description: Event 5
+    latitude: 38.8904395, 
+    longitude: -77.0091793
 
 
   
