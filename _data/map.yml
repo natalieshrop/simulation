@@ -1,7 +1,7 @@
 center:
   latitude: 38.889805
   longitude: -77.009056
-  zoom: 12
+  zoom: 12.5
 locations:
   - name: Department of Homeland Security
     description: Event 1
