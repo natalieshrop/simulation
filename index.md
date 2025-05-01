@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# DC Simulation
+# Data Breach Leading to a Terrorist attack
 
 ![DCsimulation](https://github.com/user-attachments/assets/b7ee97ef-5509-4c99-a4a0-60e6a508d872)
 
