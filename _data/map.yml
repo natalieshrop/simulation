@@ -28,11 +28,11 @@ locations:
     longitude: -76.9901770
   - name: Dupont Circle Metro Station
     description: Smaller Terrorist Attack 3
-    latitude: 38.9114551, 
+    latitude: 38.9114551 
     longitude: -77.0446400
   - name: Ronald Reagan Building and International Trade Center
     description: Smaller Terrorist Attack 4
-    latitude: 38.8977944, 
+    latitude: 38.8977944 
     longitude: -77.0368642
   - name: D.C. Supermarket
     description: Smaller Terrorist Attack 5
@@ -56,7 +56,7 @@ locations:
     longitude: -77.0109984
   - name: Washington Monument
     description: Event 5
-    latitude: 38.8904395, 
+    latitude: 38.8904395 
     longitude: -77.0091793
 
 
