@@ -6,4 +6,4 @@ nav_order: 6
 
 # Resources
 
-You may add more resources in the `resources` folder.
+Find instructions and resources here:
