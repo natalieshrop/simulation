@@ -50,8 +50,8 @@ locations:
     
   - name: US Capitol Building
     description: Event 3, Event 4
-    latitude: 38.8899
-    longitude: -77.0091
+    latitude: 38.889722
+    longitude: -77.008889
     
   - name: D.C. Hotel
     description: Event 3
