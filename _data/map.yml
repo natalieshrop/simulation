@@ -55,8 +55,8 @@ locations:
     
   - name: D.C. Hotel
     description: Event 3
-    latitude: 38.8723575
-    longitude: -77.0566103
+    latitude: 38.9039
+    longitude: -77.0250
     
   - name: The White House
     description: Event 4
