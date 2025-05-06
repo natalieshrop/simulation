@@ -40,8 +40,8 @@ locations:
     
   - name: D.C. Supermarket
     description: Smaller Terrorist Attack 5
-    latitude: 38.8899547
-    longitude: -77.0353861
+    latitude: 38.9072
+    longitude: -77.0287
     
   - name: Pentagon
     description: Smaller Terrorist Attack 6
