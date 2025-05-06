@@ -1,15 +1,19 @@
 ---
-title: Potential Questions
+title: Participant Instructions
 layout: page
 parent: Resources
 nav_order: 1
 ---
 
-# Potential Questions
+# Participant Instructions
+  
+  - Pre-Simulation: Before the simulation occurs you will be given a role that you will play during the simulation. You will need to research that role and the responsibilities that you have along with what resources they have at their disposal. These positions range from a local police officer to the President of the United States. With these roles you will collaborate with those that impact their job (for example: the Secret Service Agent collaborating with the Secretary of Homeland Security). Each role has multiple connections that either directly or indirectly impact what you are able to accomplish. Each participant should have a clear understanding of how their role may address these issues by looking into financial capabilities, physical capabilities, collaborations, and other relevant opportunities. A beneficial place to begin researching is through the organization/department website (ex. fbi.gov).
+Once the research portion is completed, you will write out your roles and capabilities to utilize while participating in the simulation. As you have a particular job role, everyone will be  divided into four groups: the red team, federal government, local government, and independent actors. After you are divided into these groups, you will introduce yourself and your role to your group, therefore you know who you are supposed to collaborate with. If you are a member of the Red Team, at the same time you should introduce yourself and get acquainted with the system along with the events that will be occurring.
+Directly prior to starting the simulation will take about 10-15 minutes to go through the website/simulation to understand the formatting and what is expected of them. 
 
-What is the goal of this simulation? 
-How do you access the website? 
-What happens if the website is not accessible? Ex: lack of internet, website crashes, etc.
-How will it be determined if students are visiting the website for the simulation? 
-How can we ensure that students don’t cheat and utilize ChatGPT to respond to the events or assignments pre and post simulation? 
-What should students do if key individuals for the simulation are not present? Ex: President, CEOs, etc. 
+  - During the Simulation: This is an event-based simulation that is focusing primarily in central DC. To begin the simulation you will have multiple events occur that you will need to respond to. ALL events should be addressed by everyone that is involved in that event. You should respond to this event with your plan of action along with what you need to delegate in order to put that plan into motion (funding, personnel, etc). After each event is answered there should be another released event until they get to the final event. Throughout the simulation the facilitator should ensure that everyone is actively participating and seeing collaboration within groups and between groups. 
+If the Red Team finds your response inadequate to the situation at hand then will put a comment and let you know what you are missing/the problem. You will need to respond to this comment with your revised response for them to evaluate again. If the Red Team finds your response adequate they will comment “approved” and let you know who has not responded to the event. Once everyone has responded and been approved the event will be completed. You will repeat this process for each event that occurs until everyone has completed the last one. 
+
+  - Post Simulation: Once the simulation has concluded, your group should discuss what they learned and Final Recommendation ideas. During this discussion your group should also look at the strengths and weaknesses that you all found while participating in the simulation. 
+	After this conversation, each participant must write their own final report. This Final Report should discuss the different recommendations that you made with the process of making those recommendations. It will also include an overarching final recommendation about how your role would prepare for another attack similar to this in the future.
+Final Report that discusses the different recommendations that you personally made during the simulation with the process of making those recommendations. This report will also include an overarching final recommendation about how their role would prepare for another attack occurring similar to this in the future.
